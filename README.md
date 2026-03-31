@@ -1,59 +1,78 @@
+<!-- HEADER / HERO SECTION -->
 <h1 align="center">Dr. Yogesh Haridas Jadhav</h1>
-<h3 align="center">Post-Doctoral Researcher | Associate Professor | AI • Cybersecurity • Cloud • Blockchain</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/jadhavyogcool">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin"/>
-  </a>
-  <a href="mailto:jadhavyogcool@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?logo=gmail"/>
-  </a>
-  <a href="https://github.com/jadhavyogcool">
-    <img src="https://img.shields.io/badge/GitHub-Profile-black?logo=github"/>
-  </a>
+<b>Post-Doctoral Researcher | Associate Professor</b><br>
+AI • Cybersecurity • Cloud • Blockchain
+</p>
+
+<p align="center">
+<a href="mailto:jadhavyogcool@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?logo=gmail"></a>
+<a href="https://linkedin.com/in/jadhavyogcool"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin"></a>
+<a href="https://github.com/jadhavyogcool"><img src="https://img.shields.io/badge/GitHub-Portfolio-black?logo=github"></a>
 </p>
 
 ---
 
-# 🧑‍💼 Professional Summary
-🎓 Post-Doctoral Researcher | PhD in Computer Science  
-👨‍🏫 Associate Professor at Atlas SkillTech University, Mumbai  
-📚 15+ Years of Experience in Teaching, Research & Industry Collaboration  
+<!-- ABOUT SECTION -->
+## 👨‍💼 About Me
 
-I specialize in building **AI-driven systems, secure architectures, and scalable cloud solutions**, with a strong focus on **bridging academic research with real-world applications**.
+I am a **Post-Doctoral Researcher and Associate Professor** with over **15+ years of experience** in academia, research, and industry collaboration.
 
----
+My work focuses on designing **intelligent systems, secure architectures, and scalable cloud solutions**, with a strong emphasis on **real-world impact and innovation**.
 
-# 🚀 Core Expertise
-
-🔹 Artificial Intelligence & Deep Learning  
-🔹 Cybersecurity & Digital Forensics  
-🔹 Cloud Computing (AWS | Azure | GCP)  
-🔹 Data Engineering (Airflow | Databricks)  
-🔹 Blockchain & Web3 Technologies  
-🔹 Large Language Models (LLMs & RAG Systems)  
+I actively contribute to:
+- Academic research (SCI & Scopus indexed journals)
+- Industry training & workshops
+- Student mentoring and innovation ecosystems
 
 ---
 
-# 🏆 Key Achievements
+<!-- EXPERTISE -->
+## 🚀 Expertise
 
-✔ 🥇 Best Paper Award – ICETI4T 2025  
-✔ 👨‍🏫 Mentored 800+ students as Google Cloud Facilitator  
-✔ 🧑‍⚖️ Judge @ Smart India Hackathon & National Hackathons  
-✔ 📘 Author – *Fundamentals of Artificial Intelligence & ML*  
-✔ 🧾 Patents in AI & IoT Systems  
-✔ 🎓 Board of Studies Member – Mumbai University  
+- 🤖 Artificial Intelligence & Deep Learning  
+- 🔐 Cybersecurity & Ethical Hacking  
+- ☁️ Cloud Computing (AWS, Azure, GCP)  
+- 📊 Data Engineering (Databricks, Airflow)  
+- 🔗 Blockchain & Web3  
+- 🧠 Large Language Models (LLMs & RAG Systems)  
 
 ---
 
-# 🔬 Research & Publications
+<!-- EXPERIENCE SNAPSHOT -->
+## 🏫 Experience Snapshot
 
-📌 Published in:
+- 👨‍🏫 Associate Professor — Atlas SkillTech University, Mumbai  
+- 🎓 Assistant Professor — NMIMS University, Mumbai  
+- 🎓 Assistant Professor — Amity University, Mumbai  
+- 🎓 Assistant Professor — Sardar Patel Institute of Technology  
+
+📚 **Total Experience:** 15+ Years  
+
+---
+
+<!-- ACHIEVEMENTS -->
+## 🏆 Achievements
+
+- 🥇 Best Paper Award – ICETI4T 2025  
+- 🎯 Google Cloud Facilitator (Mentored 800+ Students)  
+- 🧑‍⚖️ Judge – Smart India Hackathon & National Hackathons  
+- 📘 Author – *Fundamentals of Artificial Intelligence & ML*  
+- 🧾 Patents in AI & IoT Systems  
+- 🎓 Board of Studies Member – Mumbai University  
+
+---
+
+<!-- RESEARCH -->
+## 🔬 Research & Publications
+
+📄 Published in:
 - Elsevier (SCI Indexed Journals)
 - Springer
-- Scopus Indexed Journals
+- Scopus Indexed Journals  
 
-📊 Research Focus:
+🔍 Research Domains:
 - AI in Healthcare  
 - Cybersecurity Threat Detection  
 - Predictive Analytics  
@@ -61,83 +80,69 @@ I specialize in building **AI-driven systems, secure architectures, and scalable
 
 ---
 
-# 🛠️ Technical Skills
+<!-- SKILLS -->
+## 🛠️ Technical Skills
 
-## 💻 Programming
+### 💻 Programming
 `Python` `Java` `C` `C++` `R`
 
-## ☁️ Cloud & DevOps
+### ☁️ Cloud & DevOps
 `AWS` `Azure` `GCP` `Docker` `OpenStack`
 
-## 🤖 AI/ML
+### 🤖 AI/ML
 `TensorFlow` `PyTorch` `Scikit-learn` `Keras`
 
-## 🗄️ Databases
+### 🗄️ Databases
 `MySQL` `MongoDB` `Neo4j` `Redis` `DynamoDB`
 
-## 🔗 Blockchain
+### 🔗 Blockchain
 `Ethereum` `Solidity` `Truffle` `Web3.js`
 
 ---
 
-# 🎯 Featured Work
+<!-- WORKSHOPS -->
+## 🎤 Workshops & Training
 
-### 🔹 AI-Based Healthcare Systems
-Machine learning models for disease prediction and classification.
+Delivered **50+ Faculty Development Programs (FDPs), STTPs & Workshops**
 
-### 🔹 Cybersecurity Systems
-Real-time threat detection using ML algorithms.
-
-### 🔹 Blockchain Applications
-Smart contracts and decentralized applications.
-
-### 🔹 Data Engineering Pipelines
-ETL workflows using Airflow & cloud platforms.
-
----
-
-# 🎤 Workshops & Training
-
-✔ Conducted **50+ FDPs, STTPs & Workshops**
-
-📌 Key Topics:
+📌 Key Areas:
 - Generative AI & Prompt Engineering  
-- Cybersecurity Tools (Kali Linux, Wireshark, Metasploit)  
-- Cloud Computing (AWS, Azure)  
+- Cybersecurity Tools & Ethical Hacking  
+- Cloud Computing & DevOps  
 - Blockchain & Smart Contracts  
 
 ---
 
-# 📊 GitHub Analytics
+<!-- EDUCATION -->
+## 🎓 Education
+
+- 🎓 Post-Doctoral Research — University of South Florida  
+- 🎓 PhD — Computer Science  
+- 🎓 M.E. — Computer Engineering  
+- 🎓 B.E. — Information Technology  
+
+---
+
+<!-- GITHUB -->
+## 📊 GitHub Overview
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jadhavyogcool&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jadhavyogcool&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=jadhavyogcool&show_icons=true&theme=tokyonight" />
+<br>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=jadhavyogcool&theme=tokyonight" />
 </p>
 
 ---
 
-# 🎓 Academic Background
-
-🎓 Post-Doctoral Research – University of South Florida  
-🎓 PhD – Computer Science  
-🎓 M.E. – Computer Engineering  
-🎓 B.E. – Information Technology  
-
----
-
-# 📫 Contact
+<!-- CONTACT -->
+## 📫 Contact
 
 📧 Email: jadhavyogcool@gmail.com  
 📍 Location: Mumbai, India  
 
 ---
 
-# 💡 Philosophy
-
-> “Bridging Academia & Industry through AI, Cloud & Cybersecurity Innovation”
-
----
-
-# ⭐ Let's Collaborate
-If you are working on **AI, Cybersecurity, Cloud, or Blockchain projects**, feel free to connect!
+<!-- FOOTER -->
+<p align="center">
+<b>“Bridging Academia & Industry through AI, Cloud & Cybersecurity Innovation”</b>
+</p>
